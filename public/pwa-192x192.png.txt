@@ -1,0 +1,11 @@
+INSTRUCTION: Replace this file with a 192x192 PNG icon for your PWA.
+
+You can generate icons using:
+1. Online tools like https://www.favicon-generator.org/
+2. Design tools like Canva, Figma, or Adobe Illustrator
+3. Command line tools like ImageMagick
+
+Recommended icon:
+- Blue background (#0ea5e9)
+- White "P" letter or parking symbol
+- Clean, simple design

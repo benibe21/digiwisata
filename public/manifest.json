@@ -1,0 +1,18 @@
+{
+  "name": "DigiWisata - Pelaporan Data Wisata",
+  "short_name": "DigiWisata",
+  "description": "Sistem pelaporan data wisata untuk petugas lapangan dan Dinas Pariwisata",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#58b9c4",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
